@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">android-sample-app</string>
+    <string name="text_clear">CLEAR</string>
+    <string name="text_cunter">CUNTER</string>
+</resources>
